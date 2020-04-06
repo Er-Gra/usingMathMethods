@@ -180,11 +180,13 @@
                   <EmptySpace type="separate" max="-2" attributes="0"/>
                   <Component id="lblPOWIns" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                  <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="txtPOW1" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="txtPOW2" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="btnPOW" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
                       <Component id="lblPOWAns" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="txtPOW1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtPOW2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnPOW" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
                   </Group>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
                   <Component id="lblHypoIns" min="-2" max="-2" attributes="0"/>
@@ -214,10 +216,12 @@
                   <EmptySpace type="separate" max="-2" attributes="0"/>
                   <Component id="lblSqrtIns" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                  <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="txtSqrt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
                       <Component id="lblSqrtAns" alignment="1" min="-2" max="-2" attributes="0"/>
-                      <Component id="btnSqrt" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="txtSqrt" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnSqrt" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
                   </Group>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
                   <Component id="lblRadIns" min="-2" max="-2" attributes="0"/>
